@@ -1,0 +1,8 @@
+{
+    "TOKEN": "TOKEN",
+    "channel_id": "CHANNEL ID",
+    "prefix": "r!",
+    "owner": "owner id",
+    "status": "online",
+    "video_urls": ["yt","yt"]
+}
