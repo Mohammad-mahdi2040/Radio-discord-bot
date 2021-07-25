@@ -1,8 +1,10 @@
 {
-    "TOKEN": "TOKEN",
-    "channel_id": "CHANNEL ID",
+    "TOKEN": "",
+    "channel_id": "",
     "prefix": "r!",
-    "owner": "owner id",
+    "owner": "",
     "status": "online",
-    "video_urls": ["yt","yt"]
+    "membervc": "",
+    "countmember": "",
+    "video_urls": ["",""]
 }
