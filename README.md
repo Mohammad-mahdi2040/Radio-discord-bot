@@ -5,6 +5,4 @@ Replit: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-Musi
 [Aparat](https://www.aparat.com/mohammad.mahdi2040)
 [Youtube](https://www.youtube.com/channel/UC0ArbA5_6iLKvcN4qA8UQIg)
 <br>
-//====================================\\
 <left><a  href="https://discord.gg/Xy4KFQ3sWR"><img  src="https://discord.com/api/guilds/892281316916215818/widget.png?style=banner3"></a></left>
-//====================================\\
